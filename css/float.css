@@ -1,0 +1,10 @@
+* {
+    margin: 0;
+}
+
+.bg {
+    width: 800px;
+    height: 800px;
+    background: blue;
+}
+

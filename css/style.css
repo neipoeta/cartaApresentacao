@@ -1,0 +1,83 @@
+
+body {
+    padding: 0;
+    margin: 0;
+    background-color: rgb(255, 214, 183);
+    display: inline-flex;
+}
+
+body aside {
+    background-color: rgb(1, 36, 102);
+    width: 12rem;
+    height: 40rem;
+    align-items: center;
+
+}
+
+.card-image {
+    max-width: 7rem;
+    border-radius: 50%;
+    margin-left: 1.2rem;
+    margin-right: 2rem;
+    margin-top: 5rem;
+}
+
+.card-image img {
+    border: 0.3em solid rgb(1, 84, 240);
+}
+
+body aside a {
+    text-decoration: none;
+    display: grid;
+    justify-items: center;
+    margin-top: 1rem;
+    color: azure;
+}
+
+.card-links {
+    padding: 1rem;
+    font-family: 'Comic Neue';
+    font-size: 20px;
+
+}
+
+
+body section {
+    width: 35rem;
+    margin-left: 5rem;
+    margin-top: 6rem;
+}
+
+h1 {
+    margin-bottom: 0;
+    font-family: 'Comic Neue';
+    color: rgb(1, 36, 102);
+    font-size: 4rem;
+}
+
+h1 > strong{
+    color: rgb(48, 48, 49);
+}
+
+h4 {
+    color: rgb(48, 48, 49);
+    font-family: 'Comic Neue';
+    font-size: 1em;
+}
+
+h4 strong {
+    color: rgb(1, 36, 102); 
+}
+
+p {
+    color: rgb(48, 48, 49);
+    font-family: 'Comic Neue';
+    font-size: 1em;
+}
+
+.links-redes-sociais a{
+    color: rgb(1, 36, 102);;
+    font-size: 2.5rem;
+    border-radius: 50% ;
+    padding-right:2rem ;
+}

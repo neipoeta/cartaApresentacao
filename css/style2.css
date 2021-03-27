@@ -1,0 +1,36 @@
+body {
+    
+    background-color: azure;
+}
+
+body .quadrado1 {
+    background-color: blue;
+    width: 800px;
+    height: 800px;
+    margin: 0 auto;
+    padding: 100px;
+}
+.quadrado2 {
+    background-color: black;
+    padding:100px;
+    width: 600px;
+    height: 600px;
+}
+.quadrado3 {
+    background-color: yellow;
+    padding:100px;
+    width: 400px;
+    height: 400px;
+}
+.quadrado4 {
+    background-color: green;
+    padding:100px;
+    width: 200px;
+    height: 200px;
+}
+.quadrado5 {
+    background-color: white;
+    padding:50px;
+    width: 100px;
+    height: 100px;
+}

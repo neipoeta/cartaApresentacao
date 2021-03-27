@@ -1,0 +1,45 @@
+* {
+    margin: 0;
+}
+
+.box{
+    width: 100px;
+    height: 100px;
+    background-color: azure;
+    flex-direction: row;
+}
+
+.bg {
+    width: 10px;
+    height: 10px;
+    background: blue;
+    flex-direction: row;
+}
+
+.bg1{
+    width: 10px;
+    height: 10px;
+    background: blue;
+    flex-direction: row;
+}
+
+.bg2{
+    width: 10px;
+    height: 10px;
+    background: blue;
+    flex-direction: row;
+}
+
+.bg3{
+    width: 10px;
+    height: 10px;
+    background: blue;
+    flex-direction: row;
+}
+
+.bg4{
+    width: 10px;
+    height: 10px;
+    background: blue;
+    flex-direction: row;
+}

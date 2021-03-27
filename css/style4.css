@@ -1,0 +1,25 @@
+.paragrafo1 {
+    margin-left: 20em;
+    margin-bottom: 5em;
+    height: 10em;
+    max-width: 40em;
+    text-align: right;
+    text-transform: uppercase;
+    background-color: black;
+    color: azure;
+    border-radius: 30px ;
+    padding: 10px;
+}
+   
+
+.paragrafo2 {
+    margin-left: 20em;
+    max-width: 40em;
+    text-transform: lowercase;
+    background-color: black;
+    color: azure;
+    border: 3px solid red;
+    padding: 10px;
+    overflow: scroll auto;
+    height: 100px;
+}
